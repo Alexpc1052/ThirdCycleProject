@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    <list default="true" id="0a2f050c-0186-4a41-b135-4a96495c7777" name="Changes" comment="Probando mas cambios">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TiendaVirtualNFT/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TiendaVirtualNFT/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tokens/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tokens/Empleado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,12 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Empresa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tokens.Empresa" />
@@ -81,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660539299747</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Probando mas cambios">
+      <created>1660540331011</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660540331011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +116,7 @@
     <MESSAGE value="Sprint 2.&#10;Objetivo: Crear clases para las entidades básicas de la aplicación." />
     <MESSAGE value="Sprint 2.&#10;Objetivo: Crear clase Empleado para las entidades básicas de la aplicación." />
     <MESSAGE value="He creado un archivo llamado Credenciales_de_acceso.txt como ejemplo para ejecutar .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="He creado un archivo llamado Credenciales_de_acceso.txt como ejemplo para ejecutar .gitignore" />
+    <MESSAGE value="Probando mas cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Probando mas cambios" />
   </component>
 </project>
