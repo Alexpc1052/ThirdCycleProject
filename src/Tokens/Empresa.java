@@ -1,5 +1,7 @@
 package Tokens;
 
+import javax.sound.midi.Soundbank;
+
 public class Empresa {
     /*Instance variables: states of Empresa
      */
@@ -15,6 +17,7 @@ public class Empresa {
         this.nitEmpresa = nitEmpresa;
     }
     //System.out.println("Hola compañero, debemos Modelar una empresa como clase java");
+
 
     public String getNombreEmpresa() {
         return nombreEmpresa;
