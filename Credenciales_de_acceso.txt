@@ -1,5 +1,3 @@
 hola
 prueba 1
 prueba 2
-cambio para git pull
-Probando AlexPC1052
